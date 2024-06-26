@@ -1,0 +1,28 @@
+{
+    "subject": "c8fdba1fe7d62f016f7cc77e7c135974fedb1a8241a1c4e0b5c1861454524f4f50",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://spacetroopers.staking.zip",
+        "signatures": []
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TROOP",
+        "signatures": []
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TROOP",
+        "signatures": []
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": []
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Space Troopers Utility Token",
+        "signatures": []
+    }
+}
